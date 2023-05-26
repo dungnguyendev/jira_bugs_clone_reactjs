@@ -1,0 +1,12 @@
+span,.navlink {
+    transition: .5s;
+    margin-left: 4px !important;
+}
+span:hover,.navlink:hover{
+    transition: .5s;
+    text-decoration: none;
+   
+}
+.active{
+    font-weight: bold;
+}
